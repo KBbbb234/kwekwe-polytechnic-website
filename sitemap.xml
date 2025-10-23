@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kbbbb234.github.io/kwekwe-polytechnic-website/</loc>
+    <loc>https://kbbbb234.github.io/kwekwe-polytechnic-website/index.html</loc>
+  </url>
+  <url>
+    <loc>https://kbbbb234.github.io/kwekwe-polytechnic-website/about.html</loc>
+  </url>
+  <url>
+    <loc>https://kbbbb234.github.io/kwekwe-polytechnic-website/contact.html</loc>
   </url>
 </urlset>
