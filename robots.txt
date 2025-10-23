@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kbbbb234.github.io/kwekwe-polytechnic-website/sitemap.xml
